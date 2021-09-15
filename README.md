@@ -16,5 +16,5 @@ Burn: 50%.
 3% Marketing Fee.
 
 
-TRADE on PANCAKESWAP: https://pancakeswap.finance/swap#/swap?outputCurrency=0xe0c3Aab5Da87B8b2AA38bda2c66D0babf3Ebf742.  
+TRADE on PANCAKESWAP: https://pancakeswap.finance/swap#/swap?outputCurrency=0x31FA673EACb2f88c901f916fd6B1bB26EDC8E11D.  
 WEB: https://dotmatrix.finance/
